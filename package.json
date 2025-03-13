@@ -1,0 +1,15 @@
+{
+  "name": "test_software2025_1",
+  "version": "1.0.0",
+  "description": "- João Gabriel Santos Mizael - RA: 195364\r - Gustavo Silva Sobrinho - RA: 195258\r - Vitor Álvares Schneiker dos Santos - RA: 194576\r - Kauan Batista dos Santos - RA: 195347\r - Gustavo Ferreira Morinico - RA: 199358",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
